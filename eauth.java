@@ -65,7 +65,7 @@ public class eauth
 			return null;
 		}
 	}
-	private static final String O111O1O1[] = {"https://eauth.gq/api/", ApplicationKey, AccountKey};
+	private static final String O111O1O1[] = {"https://www.eauth.gq/api/", ApplicationKey, AccountKey};
     private static final String USER_AGENT = "Mozilla/5.0";
 	static String givenValue;
 	static String aithnayn(String tabadal)
